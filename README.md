@@ -5,7 +5,6 @@ It’s optimized for readability and looks excellent on GitHub.
 
 ```markdown
 # 🧠 Building an Operating System from Scratch  
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Architecture](https://img.shields.io/badge/Architecture-x86--32bit-red)]()
 [![Language](https://img.shields.io/badge/Language-Assembly%20%26%20C-green)]()
 [![Emulator](https://img.shields.io/badge/Run%20on-QEMU-orange)]()
@@ -101,12 +100,6 @@ Because the best way to understand how computers *really* work…
 is to **build one yourself**.
 
 This repository is for learners, hobbyists, and developers who want to go beyond high-level programming and dive into the heart of computing.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and learn from it.
 
 ---
 
