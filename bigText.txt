@@ -1,0 +1,1 @@
+The DEC Rainbow 100 (all variations) supported one FAT12 format on 80-track, single-sided, quad-density 5.25" drives. The first two tracks were reserved for the boot loader, but didn't contain an MBR nor a BPB (MS-DOS used a static in-memory BPB instead). The boot sector (track 0, side 0, sector 1) was Z80 code beginning with DI 0xF3. The 8088 bootstrap was loaded by the Z80
